@@ -20,7 +20,7 @@ rf2mqtt.py v1 Serial to MQTT message broker
  to a topic of [topic]/[device_prefix]_[device id]
  The topic is set in the config below
  The device_prefix is set in the config below
- The device id is the devide id of your RF sensor
+ The device id is the device id of your RF sensor
  
  Example topic  : "myhome/RF_Device04"
  Example payload: {"TMP": "25.39", "HUM": "60.20"}
