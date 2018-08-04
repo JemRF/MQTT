@@ -17,7 +17,8 @@ rf2mqtt.py v1 Serial to MQTT message broker
  Instructions:
  
  This application publishes data from RF messages using JSON (example payload below)
- to a topic of [device_prefix]_[device id]
+ to a topic of [topic]/[device_prefix]_[device id]
+ The topic is set in the config below
  The device_prefix is set in the config below
  The device id is the devide id of your RF sensor
  
