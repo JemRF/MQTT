@@ -7,7 +7,7 @@ to a topic of [device_prefix]_[device id]
 
 The device_prefix is set in the config below
 
-The device id is the devide id of your RF sensor
+The device id is the device id of your RF sensor
 
 
 Example topic  : "myhome/RF_Device04"
